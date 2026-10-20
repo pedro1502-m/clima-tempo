@@ -1,0 +1,6 @@
+{
+  "name": "ClimaTempo IA & Explorador",
+  "description": "Previsão do tempo inteligente e em tempo real com fundos dinâmicos por horário e clima, galeria de fotos dos locais e análises personalizadas por Inteligência Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
